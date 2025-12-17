@@ -18,6 +18,7 @@ Built for "OpenAGI Computer Use: Launch & Hack Night" Hackathon at GitHub HQ, Sa
 - Get OpenAGI API key: https://developer.agiopen.org/api-keys/
 - Run `uv sync`
 - Source .venv and run `oagi agent permission` until it doesn't complain about missing permissions
+- Install ublock origin lite for Chrome
 - Setup .env with 
 
 ```sh
